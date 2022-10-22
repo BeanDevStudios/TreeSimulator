@@ -1,0 +1,1441 @@
+﻿Log file open, 10/22/22 17:06:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TreeSim
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.251228
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 4800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+[2022.10.22-21.06.14:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.22-21.06.14:400][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.22-21.06.14:401][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.22-21.06.14:401][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.10.22-21.06.14:401][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+[2022.10.22-21.06.14:401][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+[2022.10.22-21.06.14:409][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.22-21.06.14:409][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.22-21.06.14:410][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.22-21.06.14:410][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.22-21.06.14:410][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.22-21.06.14:411][  0]LogHAL: Display: Platform has ~ 32 GB [33736466432 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.22-21.06.14:411][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.22-21.06.14:411][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.22-21.06.14:411][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Scalability.ini]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.10.22-21.06.14:412][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Engine.ini]
+[2022.10.22-21.06.14:412][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Config/Windows/Editor.ini]
+[2022.10.22-21.06.14:413][  0]LogInit: Computer: LAPTOP-0G9MB01T
+[2022.10.22-21.06.14:413][  0]LogInit: User: Vampi
+[2022.10.22-21.06.14:413][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.10.22-21.06.14:413][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.22-21.06.14:413][  0]LogMemory: Memory total: Physical=31.4GB (32GB approx)
+[2022.10.22-21.06.14:413][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.22-21.06.14:413][  0]LogMemory: Process Physical Memory: 147.50 MB used, 147.50 MB peak
+[2022.10.22-21.06.14:413][  0]LogMemory: Process Virtual Memory: 131.37 MB used, 131.37 MB peak
+[2022.10.22-21.06.14:413][  0]LogMemory: Physical Memory: 7011.72 MB used,  25161.88 MB free, 32173.60 MB total
+[2022.10.22-21.06.14:413][  0]LogMemory: Virtual Memory: 134189520.00 MB used,  28208.61 MB free, 134217728.00 MB total
+[2022.10.22-21.06.14:418][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.22-21.06.14:458][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.22-21.06.14:459][  0]LogInit: Using OS detected language (en-US).
+[2022.10.22-21.06.14:459][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.22-21.06.14:467][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.10.22-21.06.14:718][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.22-21.06.14:733][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.22-21.06.14:751][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.22-21.06.14:751][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.22-21.06.17:163][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.10.22-21.06.17:182][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2022.10.22-21.06.17:182][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.22-21.06.17:182][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.22-21.06.17:182][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.22-21.06.17:288][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2022.10.22-21.06.17:288][  0]LogD3D11RHI:       5991/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.10.22-21.06.17:324][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2022.10.22-21.06.17:324][  0]LogD3D11RHI:       496/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:       0/0/16086 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     DeviceId    : 2191
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     SubSysId    : 16cf1043
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     SharedSystemMemory : 16868233216 bytes
+[2022.10.22-21.06.17:327][  0]LogD3D11RHI:     AdapterLuid : 0 59957
+[2022.10.22-21.06.17:332][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.22-21.06.17:332][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.22-21.06.17:332][  0]LogWindows: EnumDisplayDevices:
+[2022.10.22-21.06.17:332][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2022.10.22-21.06.17:332][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.10.22-21.06.17:332][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.10.22-21.06.17:333][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2022.10.22-21.06.17:333][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.10.22-21.06.17:333][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.10.22-21.06.17:333][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.10.22-21.06.17:333][  0]LogWindows:    7. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.10.22-21.06.17:333][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:   Driver Version: 522.30 (internal:31.0.15.2230, unified:522.30)
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:      Driver Date: 10-12-2022
+[2022.10.22-21.06.17:334][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660 Ti
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     DeviceId    : 2191
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     SubSysId    : 16cf1043
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     DedicatedVideoMemory : 6282018816 bytes
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     SharedSystemMemory : 16868233216 bytes
+[2022.10.22-21.06.17:334][  0]LogD3D11RHI:     AdapterLuid : 0 59957
+[2022.10.22-21.06.17:397][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.22-21.06.17:398][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.22-21.06.17:398][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.10.22-21.06.17:425][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.22-21.06.17:449][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.10.22-21.06.17:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.22-21.06.17:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.22-21.06.17:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.22-21.06.17:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.22-21.06.17:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.22-21.06.17:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.22-21.06.17:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.22-21.06.17:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.22-21.06.17:784][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.22-21.06.17:788][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.22-21.06.17:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.22-21.06.17:805][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.22-21.06.17:809][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.22-21.06.17:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.22-21.06.17:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.22-21.06.17:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.10.22-21.06.17:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.10.22-21.06.17:858][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.10.22-21.06.17:862][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.10.22-21.06.17:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.22-21.06.17:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.22-21.06.17:883][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.22-21.06.17:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.22-21.06.17:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.22-21.06.17:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.22-21.06.17:896][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.22-21.06.17:905][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.22-21.06.17:934][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.10.22-21.06.17:963][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.22-21.06.17:963][  0]LogShaderCompilers: Guid format shader working directory is -90 characters bigger than the processId version (../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Intermediate/Shaders/WorkingDirectory/7060/).
+[2022.10.22-21.06.17:964][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Vampi/AppData/Local/Temp/UnrealShaderWorkingDir/A12CBBDE463E8FF3C8080F82E5427507/'.
+[2022.10.22-21.06.17:964][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.22-21.06.17:964][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.22-21.06.17:964][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.22-21.06.20:865][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.22-21.06.20:922][  0]LogDerivedDataCache: Loaded boot cache 0.06s 116MB C:/Users/Vampi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.22-21.06.20:922][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Vampi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.10.22-21.06.20:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.22-21.06.20:922][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.22-21.06.20:922][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.22-21.06.20:922][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.22-21.06.20:946][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.22-21.06.20:947][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.22-21.06.20:947][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.22-21.06.20:956][  0]LogDerivedDataCache: Speed tests for C:/Users/Vampi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.22-21.06.20:956][  0]LogDerivedDataCache: Display: Performance to C:/Users/Vampi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=214.29MBs, RandomWriteSpeed=201.56MBs. Assigned SpeedClass 'Local'
+[2022.10.22-21.06.20:957][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Vampi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.22-21.06.20:957][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.22-21.06.20:957][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.22-21.06.20:999][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.22-21.06.21:000][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.22-21.06.21:022][  0]LogAssetRegistry: FAssetRegistry took 0.0042 seconds to start up
+[2022.10.22-21.06.21:251][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.22-21.06.21:251][  0]LogInit: Active device profile: [000001FB7D4D3900][000001FB7CDF7480 49] Windows
+[2022.10.22-21.06.21:251][  0]LogInit: Profiles: [000001FB7D4D3900][000001FB7CDF7480 49] Windows, [000001FB7D484B00][000001FB7CDFB740 49] WindowsNoEditor, [000001FB7D4D0B00][000001FB6ADF1A00 49] WindowsServer, [000001FB7D487700][000001FB6ADF4140 49] WindowsClient, [000001FB7D4D3700][000001FB6ADFC400 49] IOS, [000001FB7D484100][000001FB6AE006C0 49] iPadAir, [000001FB7D4D0500][000001FB6F514980 49] iPadAir2, [000001FB7D418C00][000001FB6F528EC0 49] IPadPro, [000001FB7D418D00][000001FB6F518F00 49] iPadAir3, [000001FB7D4D3500][000001FB7CDD7180 49] iPadAir4, [000001FB7D41BE00][000001FB6F521400 49] iPadMini2, [000001FB7D4D0400][000001FB6F5256C0 49] iPadMini3, [000001FB7D419700][000001FB6ADF9980 49] iPadMini4, [000001FB7D4D3400][000001FB6AE040C0 49] iPadMini5, [000001FB7D487000][000001FB7314A600 49] iPhone6, [000001FB7D486F00][000001FB6F54E640 49] iPodTouch6, [000001FB7D41B500][000001FB73268B80 49] iPhone7, [000001FB7D41B400][000001FB73142BC0 49] iPodTouch7, [000001FB7D487A00][000001FB73146E80 49] iPhone5S, [000001FB7D418A00][000001FB6F553140 49] iPhone6Plus, [000001FB7D486600][000001FB6F51D3C0 49] iPhone6S, [000001FB7D41AC00][000001FB7CAA1640 49] iPhone6SPlus, [000001FB7D484500][000001FB7314F900 49] iPhone7Plus, [000001FB7D419200][000001FB73153BC0 49] iPhoneSE, [000001FB7D486200][000001FB73156300 49] iPhone8, [000001FB7D41A800][000001FB7315A5C0 49] iPhone8Plus, [000001FB7D484600][000001FB7315E880 49] iPhoneX, [000001FB7D419400][000001FB73162B40 49] iPhoneXS, [000001FB7D485F00][000001FB73166E00 49] iPhoneXSMax, [000001FB7D41A500][000001FB7316B0C0 49] iPhoneXR, [000001FB7D484E00][000001FB7A96D380 49] iPhone11, [000001FB7D418300][000001FB7326D600 49] iPhone11Pro, [000001FB7D485C00][000001FB7A971880 49] iPhone11ProMax, [000001FB7D41BA00][000001FB7A979B40 49] iPhoneSE2, [000001FB7D486D00][000001FB7A97C280 49] iPhone12Mini, [000001FB7D419A00][000001FB7A980540 49] iPhone12, [000001FB7D487200][000001FB7A984800 49] iPhone12Pro, [000001FB7D418800][000001FB7A988AC0 49] iPhone12ProMax, [000001FB7D486800][000001FB7A98CD80 49] iPadPro105, [000001FB7D419C00][000001FB7A991040 49] iPadPro129, [000001FB7D484700][000001FB7CC51300 49] iPadPro97, [000001FB7D41A100][000001FB7CC555C0 49] iPadPro2_129, [000001FB7D485600][000001FB7A975840 49] iPad5, [000001FB7D419E00][000001FB7CC59AC0 49] iPad6, [000001FB7D485900][000001FB7CC60200 49] iPad7, [000001FB7D419F00][000001FB7CC644C0 49] iPad8, [000001FB7D487C00][000001FB7CC68780 49] iPadPro11, [000001FB7D41A400][000001FB7CC6CA40 49] iPadPro2_11, [000001FB7D484400][000001FB7CC70D00 49] iPadPro3_129, [000001FB7D418900][000001FB7CC74FC0 49] iPadPro4_129, [000001FB7D486900][000001FB7CC79280 49] AppleTV, [000001FB7D41B100][000001FB7CC7D540 49] AppleTV4K, [000001FB7D487400][000001FB7CC81800 49] TVOS, [000001FB7D418700][000001FB7CC5DA80 49] Mac, [000001FB7D485800][000001FB7CC84180 49] MacClient, [000001FB7D41B600][000001FB730DA440 49] MacNoEditor, [000001FB7D485E00][000001FB730DE700 49] MacServer, [000001FB7D41AB00][000001FB730E29C0 49] Linux, [000001FB7D487100][000001FB730E6C80 49] LinuxAArch64, [000001FB7D41AE00][000001FB730EAF40 49] LinuxNoEditor, [000001FB7D487E00][000001FB730EF200 49] LinuxAArch64NoEditor, [000001FB7D41A000][000001FB730F34C0 49] LinuxClient, [000001FB7D486000][000001FB730F7780 49] LinuxAArch64Client, [000001FB7D41BC00][000001FB730FBA40 49] LinuxServer, [000001FB7D486100][000001FB730D6140 49] LinuxAArch64Server, [000001FB7D4D1000][000001FB730FE3C0 49] Android, [000001FB7D529500][000001FB73106680 49] Android_Low, [000001FB7D4D2B00][000001FB7310A940 49] Android_Mid, [000001FB7D529200][000001FB7310EC00 49] Android_High, [000001FB7D4D1E00][000001FB73112EC0 49] Android_Default, [000001FB7D528F00][000001FB73117180 49] Android_Adreno4xx, [000001FB7D4D1100][000001FB7311B440 49] Android_Adreno5xx_Low, [000001FB7D529C00][000001FB7311F700 49] Android_Adreno5xx, [000001FB7D4D0100][000001FB731239C0 49] Android_Adreno6xx, [000001FB7D528B00][000001FB73126100 49] Android_Adreno6xx_Vulkan, [000001FB7D4D2400][000001FB73102380 49] Android_Mali_T6xx, [000001FB7D52A400][000001FB7312A600 49] Android_Mali_T7xx, [000001FB7D4D2E00][000001FB731328C0 49] Android_Mali_T8xx, [000001FB7D529300][000001FB73136B80 49] Android_Mali_G71, [000001FB7D4D1500][000001FB7313AE40 49] Android_Mali_G72, [000001FB7D528600][000001FB7313F100 49] Android_Mali_G72_Vulkan, [000001FB7D4D1900][000001FB7E2513C0 49] Android_Mali_G76, [000001FB7D52A000][000001FB7E255680 49] Android_Mali_G76_Vulkan, [000001FB7D4D1A00][000001FB7E259940 49] Android_Mali_G77, [000001FB7D52A300][000001FB7E25DC00 49] Android_Mali_G77_Vulkan, [000001FB7D485B00][000001FB7E260340 49] Android_Mali_G78, [000001FB7D41AF00][000001FB7312E5C0 49] Android_Mali_G78_Vulkan, [000001FB7D485A00][000001FB7E264840 49] Android_Mali_G710, [000001FB7D419600][000001FB7E26CB00 49] Android_Mali_G710_Vulkan, [000001FB7D485500][000001FB7E270DC0 49] Android_Vulkan_SM5, [000001FB7D418E00][000001FB7E275080 49] Android_PowerVR_G6xxx, [000001FB7D486700][000001FB7E279340 49] Android_PowerVR_GT7xxx, [000001FB7D529A00][000001FB7E27D600 49] Android_PowerVR_GE8xxx, [000001FB7D487900][000001FB7E2818C0 49] Android_PowerVR_GM9xxx, [000001FB7D529100][000001FB7E285B80 49] Android_PowerVR_GM9xxx_Vulkan, [000001FB7D485000][000001FB7E2882C0 49] Android_TegraK1, [000001FB7D528100][000001FB7E28C580 49] Android_Unknown_Vulkan, [000001FB7D485200][000001FB7E268800 49] Lumin, [000001FB7D528200][000001FB7E294AC0 49] Lumin_Desktop, [000001FB7D486E00][000001FB7E298D80 49] HoloLens, 
+[2022.10.22-21.06.21:421][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.22-21.06.21:421][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.22-21.06.21:421][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.22-21.06.21:421][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.22-21.06.21:421][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.22-21.06.21:443][  0]LogNetVersion: TreeSim 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1000014298)
+[2022.10.22-21.06.22:071][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.22-21.06.22:163][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.22-21.06.22:169][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.10.22-21.06.22:169][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.10.22-21.06.22:169][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.22-21.06.22:635][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 04D286134B520B75E95971A527AEE5A1 | Instance: 96E01D124A62567AD916F19B6D76100E (LAPTOP-0G9MB01T-7060).
+[2022.10.22-21.06.22:668][  0]LogPython: Using Python 3.7.7
+[2022.10.22-21.06.23:453][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.22-21.06.23:459][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.22-21.06.23:888][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.22-21.06.23:902][  0]SourceControl: Source control is disabled
+[2022.10.22-21.06.23:902][  0]SourceControl: Source control is disabled
+[2022.10.22-21.06.23:905][  0]SourceControl: Source control is disabled
+[2022.10.22-21.06.23:908][  0]SourceControl: Source control is disabled
+[2022.10.22-21.06.23:921][  0]SourceControl: Source control is disabled
+[2022.10.22-21.06.23:934][  0]LogUProjectInfo: Found projects:
+[2022.10.22-21.06.23:990][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.22-21.06.24:009][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.22-21.06.24:009][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.22-21.06.24:182][  0]LogCollectionManager: Loaded 1 collections in 0.005236 seconds
+[2022.10.22-21.06.24:224][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Collections/' took 0.00s
+[2022.10.22-21.06.24:224][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Developers/Vampi/Collections/' took 0.00s
+[2022.10.22-21.06.24:224][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Collections/' took 0.00s
+[2022.10.22-21.06.24:224][  0]LogOcInput: OculusInput pre-init called
+[2022.10.22-21.06.24:458][  0]LogEngine: Initializing Engine...
+[2022.10.22-21.06.24:461][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.10.22-21.06.24:461][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2022.10.22-21.06.24:461][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.10.22-21.06.24:462][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.22-21.06.24:730][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.22-21.06.24:738][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.22-21.06.24:738][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.22-21.06.24:741][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.22-21.06.24:746][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.22-21.06.24:747][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.22-21.06.24:747][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.22-21.06.24:747][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-21.06.24:747][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-21.06.24:747][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-21.06.24:747][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-21.06.24:747][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-21.06.24:747][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-21.06.24:747][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-21.06.24:747][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-21.06.24:748][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-21.06.24:748][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-21.06.24:748][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-21.06.24:748][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-21.06.24:758][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-21.06.24:758][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-21.06.24:937][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.22-21.06.24:938][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-21.06.24:963][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-21.06.24:963][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-21.06.24:964][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-21.06.24:965][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-21.06.24:965][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-21.06.24:966][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-21.06.24:966][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-21.06.24:966][  0]LogInit: FAudioDevice initialized.
+[2022.10.22-21.06.24:966][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.22-21.06.24:966][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.22-21.06.25:019][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/Vampi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.22-21.06.25:021][  0]LogInit: Texture streaming: Enabled
+[2022.10.22-21.06.25:032][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.10.22-21.06.25:036][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.22-21.06.25:036][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4EE29D60-4CDF-0482-673C-E18675726C64}
+[2022.10.22-21.06.25:036][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.22-21.06.25:038][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.22-21.06.25:062][  0]LogInit: Transaction tracking system initialized
+[2022.10.22-21.06.25:080][  0]BlueprintLog: New page: Editor Load
+[2022.10.22-21.06.25:134][  0]LocalizationService: Localization service is disabled
+[2022.10.22-21.06.25:156][  0]TimingProfiler: Initialize
+[2022.10.22-21.06.25:156][  0]TimingProfiler: OnSessionChanged
+[2022.10.22-21.06.25:156][  0]LoadingProfiler: Initialize
+[2022.10.22-21.06.25:156][  0]LoadingProfiler: OnSessionChanged
+[2022.10.22-21.06.25:156][  0]NetworkingProfiler: Initialize
+[2022.10.22-21.06.25:156][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.22-21.06.25:156][  0]MemoryProfiler: Initialize
+[2022.10.22-21.06.25:156][  0]MemoryProfiler: OnSessionChanged
+[2022.10.22-21.06.25:448][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.10.22-21.06.25:448][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.22-21.06.25:630][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/' took 0.01s
+[2022.10.22-21.06.25:767][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.22-21.06.25:770][  0]SourceControl: Source control is disabled
+[2022.10.22-21.06.25:770][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.359
+[2022.10.22-21.06.25:770][  0]LightingResults: New page: Lighting Build
+[2022.10.22-21.06.25:772][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.06.25:772][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.06.25:772][  0]MapCheck: New page: Map Check
+[2022.10.22-21.06.25:772][  0]LightingResults: New page: Lighting Build
+[2022.10.22-21.06.25:775][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.06.25:778][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.22-21.06.25:944][  0]LogTexture: Display: Building textures: DeprecatedTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2022.10.22-21.06.25:949][  0]LogTexture: Display: Building textures: DeprecatedTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2022.10.22-21.06.25:961][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.10.22-21.06.25:962][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.10.22-21.06.25:967][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-21.06.25:973][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.22-21.06.25:973][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-21.06.25:974][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.236ms to complete.
+[2022.10.22-21.06.25:974][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.204
+[2022.10.22-21.06.25:975][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.565
+[2022.10.22-21.06.26:077][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.06.26:083][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.06.26:089][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.06.26:095][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.06.26:113][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3822 classes and 928 folders.
+[2022.10.22-21.06.26:116][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.22-21.06.26:123][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.22-21.06.26:123][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:123][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.22-21.06.26:123][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:123][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.10.22-21.06.26:123][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2022.10.22-21.06.26:131][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.22-21.06.26:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.22-21.06.26:131][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:131][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.10.22-21.06.26:131][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2022.10.22-21.06.26:137][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.10.22-21.06.26:137][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:137][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.10.22-21.06.26:137][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:137][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.10.22-21.06.26:137][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.10.22-21.06.26:142][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.22-21.06.26:142][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.22-21.06.26:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.10.22-21.06.26:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.10.22-21.06.26:147][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.22-21.06.26:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.22-21.06.26:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:148][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.10.22-21.06.26:148][  0]LogPakFile: OnPakFileMounted2Time == 0.000095
+[2022.10.22-21.06.26:153][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.22-21.06.26:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.22-21.06.26:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.10.22-21.06.26:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.10.22-21.06.26:157][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.22-21.06.26:158][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:158][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.22-21.06.26:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:158][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.10.22-21.06.26:158][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2022.10.22-21.06.26:164][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.22-21.06.26:164][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:164][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.22-21.06.26:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:164][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.10.22-21.06.26:164][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.10.22-21.06.26:170][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.22-21.06.26:170][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:170][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.22-21.06.26:170][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:171][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.10.22-21.06.26:171][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.10.22-21.06.26:176][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.22-21.06.26:176][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:176][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.22-21.06.26:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:177][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.10.22-21.06.26:177][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2022.10.22-21.06.26:184][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.22-21.06.26:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.22-21.06.26:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:184][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.10.22-21.06.26:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.10.22-21.06.26:190][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.22-21.06.26:190][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:190][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.22-21.06.26:190][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:190][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.10.22-21.06.26:190][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.10.22-21.06.26:195][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.22-21.06.26:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.22-21.06.26:195][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:195][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.10.22-21.06.26:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.10.22-21.06.26:200][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.22-21.06.26:200][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:200][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.22-21.06.26:200][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:200][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.10.22-21.06.26:200][  0]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2022.10.22-21.06.26:206][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.22-21.06.26:206][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:207][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.22-21.06.26:207][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:207][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.10.22-21.06.26:207][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2022.10.22-21.06.26:212][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.22-21.06.26:212][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:212][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.22-21.06.26:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:212][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.10.22-21.06.26:212][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.10.22-21.06.26:217][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.22-21.06.26:217][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:217][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.22-21.06.26:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.10.22-21.06.26:217][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.10.22-21.06.26:223][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.22-21.06.26:223][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:223][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.22-21.06.26:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.10.22-21.06.26:223][  0]LogPakFile: OnPakFileMounted2Time == 0.000088
+[2022.10.22-21.06.26:228][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.22-21.06.26:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.22-21.06.26:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.10.22-21.06.26:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.10.22-21.06.26:235][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.22-21.06.26:235][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:235][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.22-21.06.26:235][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:235][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.10.22-21.06.26:235][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.10.22-21.06.26:240][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.22-21.06.26:240][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:240][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.22-21.06.26:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:240][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.10.22-21.06.26:240][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.10.22-21.06.26:246][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.22-21.06.26:246][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:246][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.22-21.06.26:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:246][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.10.22-21.06.26:246][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.10.22-21.06.26:251][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.10.22-21.06.26:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.10.22-21.06.26:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:251][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.10.22-21.06.26:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.10.22-21.06.26:258][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.22-21.06.26:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.22-21.06.26:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:258][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.10.22-21.06.26:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2022.10.22-21.06.26:263][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.22-21.06.26:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.22-21.06.26:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.10.22-21.06.26:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2022.10.22-21.06.26:269][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.22-21.06.26:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.22-21.06.26:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.22-21.06.26:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.22-21.06.26:270][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.10.22-21.06.26:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2022.10.22-21.06.26:430][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.22-21.06.26:431][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.10.22-21.06.26:529][  0]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.22-21.06.26:535][  0]LogSlate: Took 0.004814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.22-21.06.26:536][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.22-21.06.26:662][  0]LogRenderer: Reallocating scene render targets to support 688x332 Format 10 NumSamples 1 (Frame:1).
+[2022.10.22-21.06.26:809][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.22-21.06.26:809][  0]LogLoad: (Engine Initialization) Total time: 14.40 seconds
+[2022.10.22-21.06.26:809][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.22-21.06.26:856][  0]LogAssetRegistry: Asset discovery search completed in 5.8366 seconds
+[2022.10.22-21.06.26:884][  0]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000012 seconds (updated 0 objects)
+[2022.10.22-21.06.26:886][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.22-21.06.27:043][  3]LogSlate: Took 0.004938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.22-21.06.36:785][583]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.HUD_C' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.SKEL_HUD_C:PreConstruct' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.SKEL_HUD_C:Construct' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.SKEL_HUD_C:Tick' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:858][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/HUD.SKEL_HUD_C' ref from Metadata '/Game/Blueprints/Menus/HUD.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu_C' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C:PreConstruct' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C:Construct' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C:Tick' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__MainMenu_StartButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__MainMenu_OptionsButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__MainMenu_ExitButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C:BndEvt__MainMenu_BackButton_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:859][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/MainMenu.SKEL_MainMenu_C' ref from Metadata '/Game/Blueprints/Menus/MainMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.PauseMenu_C' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.PauseMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.PauseMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.PauseMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.SKEL_PauseMenu_C:PreConstruct' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.SKEL_PauseMenu_C:Construct' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.SKEL_PauseMenu_C:Tick' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:860][583]LogMetaData: Removing '/Game/Tree_Simulator/Blueprints/Menus/PauseMenu.SKEL_PauseMenu_C' ref from Metadata '/Game/Blueprints/Menus/PauseMenu.PackageMetaData'
+[2022.10.22-21.06.36:886][583]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/HUD79A90A4F4181B4503F4310BE4C6CFE6D.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Blueprints/Menus/HUD.uasset'
+[2022.10.22-21.06.36:900][583]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/MainMenuFC2402744E826EE2D817B49568AE2554.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Blueprints/Menus/MainMenu.uasset'
+[2022.10.22-21.06.36:904][583]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/PauseMenu3010EE3C423927928B8DAC982A1BEFD8.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Blueprints/Menus/PauseMenu.uasset'
+[2022.10.22-21.06.36:973][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.10.22-21.06.36:978][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.22-21.06.36:982][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.10.22-21.06.36:996][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.22-21.06.37:000][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.22-21.06.37:016][583]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/MainMenuC3D92B7B432C8DDA0B26DC9D0EEB89A1.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Assets/Menus/MainMenu.uasset'
+[2022.10.22-21.06.37:056][583]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.22-21.06.37:056][583]LogContentValidation: Display: Validating WidgetBlueprint /Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu
+[2022.10.22-21.06.37:057][583]LogContentValidation: Display: Validating WidgetBlueprint /Game/Tree_Simulator/Blueprints/Menus/HUD.HUD
+[2022.10.22-21.06.37:057][583]LogContentValidation: Display: Validating WidgetBlueprint /Game/Tree_Simulator/Blueprints/Menus/PauseMenu.PauseMenu
+[2022.10.22-21.06.37:057][583]LogContentValidation: Display: Validating ObjectRedirector /Game/Tree_Simulator/Assets/Menus/MainMenu.Default__MainMenu_C
+[2022.10.22-21.06.37:057][583]LogContentValidation: Display: Validating ObjectRedirector /Game/Tree_Simulator/Assets/Menus/MainMenu.MainMenu
+[2022.10.22-21.06.37:057][583]LogContentValidation: Display: Validating ObjectRedirector /Game/Tree_Simulator/Assets/Menus/MainMenu.MainMenu_C
+[2022.10.22-21.06.45:908][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.22-21.06.47:959][102]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.22-21.06.47:966][102]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Tree_Simulator/Assets/Menus/MainMenu.Default__MainMenu_C
+	Asset Name: /Game/Tree_Simulator/Assets/Menus/MainMenu.MainMenu
+	Asset Name: /Game/Tree_Simulator/Assets/Menus/MainMenu.MainMenu_C
+[2022.10.22-21.06.48:427][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.22-21.06.48:433][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.22-21.06.48:437][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.22-21.07.47:847][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.10.22-21.07.47:863][812]LogLinker: Warning: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:863][812]LogLinker: Warning: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:863][812]LogLinker: Warning: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:864][812]LogLinker: Warning: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:864][812]LogLinker: Warning: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:864][812]LogLinker: Warning: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:865][812]LogLinker: Warning: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:865][812]LoadErrors: Failed to load /Game/Tree_Simulator/Assets/Menus/MainMenu.MainMenu_C Referenced by K2Node_CreateWidget_0
+[2022.10.22-21.07.47:865][812]LogLinker: Warning: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: Failed to load '/Game/Tree_Simulator/Assets/Menus/MainMenu': Can't find file.
+[2022.10.22-21.07.47:866][812]LogBlueprint: Error: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.10.22-21.07.47:869][812]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.07.47:869][812]LightingResults: New page: Lighting Build
+[2022.10.22-21.07.47:869][812]LoadErrors: New page: Loading map: Main.umap
+[2022.10.22-21.07.47:871][812]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.07.47:871][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.07.47:871][812]MapCheck: New page: Map Check
+[2022.10.22-21.07.47:871][812]LightingResults: New page: Lighting Build
+[2022.10.22-21.07.47:875][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.07.47:877][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.22-21.07.47:878][812]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.10.22-21.07.47:900][812]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-21.07.47:900][812]LogAIModule: Creating AISystem for world Main
+[2022.10.22-21.07.47:905][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.22-21.07.47:909][812]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-21.07.47:909][812]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2022.10.22-21.07.47:909][812]LogFileHelpers: Loading map 'Main' took 0.041
+[2022.10.22-21.07.50:890][986]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.22-21.07.50:895][986]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.22-21.07.50:896][986]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.22-21.07.50:897][986]LogBlueprint: Error: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.10.22-21.07.50:913][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.10.22-21.07.50:913][986]LogPlayLevel: PlayLevel: Blueprint regeneration took 17 ms (1 blueprints)
+[2022.10.22-21.07.50:913][986]BlueprintLog: Warning: Blueprint failed to compile:  Main
+[2022.10.22-21.07.50:913][986]LogCustomDialog: Dialog displayed:
+[2022.10.22-21.07.54:400][986]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.22-21.07.54:405][986]PIE: New page: PIE session: Main (Oct 22, 2022, 1:07:54 PM)
+[2022.10.22-21.07.54:407][986]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.22-21.07.54:408][986]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.22-21.07.54:408][986]LogPlayLevel: Creating play world package: /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.07.54:409][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001216s)
+[2022.10.22-21.07.54:410][986]LogAIModule: Creating AISystem for world Main
+[2022.10.22-21.07.54:411][986]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2022.10.22-21.07.54:411][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tree_Simulator/Maps/Main.Main to /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main (0.002560s)
+[2022.10.22-21.07.54:415][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.22-21.07.54:415][986]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.22-21.07.54:415][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-21.07.54:415][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-21.07.54:415][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-21.07.54:415][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-21.07.54:415][986]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-21.07.54:415][986]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-21.07.54:415][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-21.07.54:415][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-21.07.54:416][986]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-21.07.54:416][986]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-21.07.54:416][986]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-21.07.54:416][986]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-21.07.54:417][986]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-21.07.54:417][986]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-21.07.54:445][986]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.22-21.07.54:445][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-21.07.54:445][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-21.07.54:445][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-21.07.54:446][986]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-21.07.54:446][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-21.07.54:446][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-21.07.54:447][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-21.07.54:447][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-21.07.54:447][986]LogInit: FAudioDevice initialized.
+[2022.10.22-21.07.54:447][986]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2022.10.22-21.07.54:455][986]LogLoad: Game class is 'GameModeBase'
+[2022.10.22-21.07.54:457][986]LogWorld: Bringing World /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.10.22-17.07.54
+[2022.10.22-21.07.54:457][986]LogWorld: Bringing up level for play took: 0.000626
+[2022.10.22-21.07.54:457][986]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.10.22-21.07.54:460][986]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.10.22-21.07.54:461][986]PIE: Server logged in
+[2022.10.22-21.07.54:462][986]PIE: Play in editor total start time 3.567 seconds.
+[2022.10.22-21.07.58:256][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.07.58:256][211]LogWorld: BeginTearingDown for /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.07.58:256][211]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.07.58:256][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.07.58:266][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-21.07.58:267][211]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.07.58:271][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.07.58:272][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.07.58:273][211]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.07.58:294][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.22-21.07.58:336][214]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.10.22-21.08.01:945][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.10.22-21.08.01:950][429]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Main5DBE5A964C28BA8C87D1E394A927A3E7.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main.umap'
+[2022.10.22-21.08.01:966][429]AssetCheck: New page: Asset Save: Main
+[2022.10.22-21.08.01:966][429]LogContentValidation: Display: Validating World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.08.15:908][261]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-21.08.24:849][790]LogEditorViewport: Clicking Background
+[2022.10.22-21.08.29:446][ 63]MapCheck: New page: Map Check
+[2022.10.22-21.08.29:467][ 63]Cmd: MAP REBUILD ALLVISIBLE
+[2022.10.22-21.08.29:467][ 63]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.10.22-21.08.29:488][ 63]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=false
+[2022.10.22-21.08.29:495][ 63]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.10.22-21.08.29:495][ 63]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.10.22-21.08.29:495][ 63]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.10.22-21.08.29:501][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.10.22-21.08.29:508][ 63]LightingResults: New page: Lighting Build - Oct 22, 2022, 1:08:29 PM
+[2022.10.22-21.08.29:552][ 63]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.10.22-21.08.29:612][ 63]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.10.22-21.08.29:623][ 63]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.10.22-21.08.30:145][ 63]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.10.22-21.08.30:145][ 63]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7060
+[2022.10.22-21.08.36:880][ 63]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.10.22-21.08.36:880][ 63]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.10.22-21.08.36:880][ 63]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.10.22-21.08.36:881][ 63]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.10.22-21.08.36:881][ 63]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.10.22-21.08.36:881][ 63]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.10.22-21.08.36:991][ 63]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.10.22-21.08.36:992][ 63]MapCheck: New page: Main - Oct 22, 2022, 1:08:36 PM
+[2022.10.22-21.08.36:992][ 63]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.315ms to complete.
+[2022.10.22-21.08.36:994][ 63]LogEditorBuildUtils: Build time 0:07
+[2022.10.22-21.08.37:057][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.10.22-21.08.38:202][ 67]Job is a success!
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:      Bricks at depth
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:      Bricks in each level
+[2022.10.22-21.08.38:608][ 68]LogVolumetricLightmapImport:          Main 			 1 bricks 	 100.0% (Persistent Level)
+[2022.10.22-21.08.38:628][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.10.22-21.08.38:638][ 68]Lightmass on LAPTOP-0G9MB01T: 990 ms total, 120 ms importing, 14 ms setup, 24 ms photons, 800 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 11.9 sec total, 0 ms processing.
+[2022.10.22-21.08.38:667][ 68]LogStaticLightingSystem: Illumination: 8.78 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2022.10.22-21.08.38:667][ 68]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.10.22-21.08.38:667][ 68]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2022.10.22-21.08.38:870][ 68]DumpUnbuiltLightIteractions
+[2022.10.22-21.08.38:870][ 68]Lights with unbuilt interactions: 0
+[2022.10.22-21.08.38:870][ 68]
+[2022.10.22-21.08.38:870][ 68]Primitives with unbuilt interactions: 0
+[2022.10.22-21.08.38:910][ 69]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.10.22-21.08.38:910][ 69]MapCheck: New page: Main - Oct 22, 2022, 1:08:38 PM
+[2022.10.22-21.08.38:910][ 69]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.304ms to complete.
+[2022.10.22-21.08.43:392][162]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.22-21.08.43:397][162]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.22-21.08.43:397][162]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2022.10.22-21.08.43:398][162]LogBlueprint: Error: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.10.22-21.08.43:406][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.10.22-21.08.43:407][162]LogPlayLevel: PlayLevel: Blueprint regeneration took 9 ms (1 blueprints)
+[2022.10.22-21.08.43:407][162]BlueprintLog: Warning: Blueprint failed to compile:  Main
+[2022.10.22-21.08.43:407][162]LogCustomDialog: Dialog displayed:
+[2022.10.22-21.08.55:429][162]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Tree_Simulator/Maps/Main.Main:PersistentLevel.Main
+[2022.10.22-21.08.55:588][162]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.10.22-21.08.58:520][162]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.10.22-21.08.58:524][162]PIE: New page: PIE session: Main (Oct 22, 2022, 1:08:58 PM)
+[2022.10.22-21.08.58:525][162]LogPlayLevel: Creating play world package: /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.08.58:526][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001072s)
+[2022.10.22-21.08.58:527][162]LogAIModule: Creating AISystem for world Main
+[2022.10.22-21.08.58:527][162]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2022.10.22-21.08.58:527][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tree_Simulator/Maps/Main.Main to /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main (0.002273s)
+[2022.10.22-21.08.58:547][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.22-21.08.58:548][162]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.22-21.08.58:548][162]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-21.08.58:548][162]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-21.08.58:548][162]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-21.08.58:548][162]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-21.08.58:548][162]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-21.08.58:548][162]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-21.08.58:548][162]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-21.08.58:548][162]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-21.08.58:549][162]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-21.08.58:549][162]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-21.08.58:549][162]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-21.08.58:549][162]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-21.08.58:551][162]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-21.08.58:551][162]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-21.08.58:577][162]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.22-21.08.58:577][162]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-21.08.58:577][162]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-21.08.58:577][162]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-21.08.58:577][162]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-21.08.58:578][162]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-21.08.58:578][162]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-21.08.58:579][162]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-21.08.58:579][162]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-21.08.58:579][162]LogInit: FAudioDevice initialized.
+[2022.10.22-21.08.58:579][162]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2022.10.22-21.08.58:589][162]LogLoad: Game class is 'GameModeBase'
+[2022.10.22-21.08.58:590][162]LogWorld: Bringing World /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.10.22-17.08.58
+[2022.10.22-21.08.58:590][162]LogWorld: Bringing up level for play took: 0.000291
+[2022.10.22-21.08.58:590][162]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.10.22-21.08.58:593][162]PIE: Server logged in
+[2022.10.22-21.08.58:594][162]PIE: Play in editor total start time 15.197 seconds.
+[2022.10.22-21.08.58:598][162]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.22-21.08.58:631][162]LogSlate: Took 0.005673 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.22-21.08.58:654][163]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.22-21.09.06:327][617]LogSlate: Window 'Main' being destroyed
+[2022.10.22-21.09.06:331][617]LogSlate: Window 'Main' being destroyed
+[2022.10.22-21.09.06:335][617]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.06:335][617]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.11:476][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.22-21.09.13:569][914]LogSlate: Window 'Save Content' being destroyed
+[2022.10.22-21.09.13:573][914]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.09.15:142][914]LogSlate: Window 'Message' being destroyed
+[2022.10.22-21.09.15:147][914]Message dialog closed, result: No, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2022.10.22-21.09.17:500][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.22-21.09.17:505][ 49]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Main094B15414AE4A46AEB71D8BF1D549876.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main.umap'
+[2022.10.22-21.09.17:510][ 49]LogFileHelpers: Saving map 'Main' took 0.024
+[2022.10.22-21.09.17:520][ 49]AssetCheck: New page: Asset Save: Main
+[2022.10.22-21.09.17:520][ 49]LogContentValidation: Display: Validating World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.09.18:752][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.10.22-21.09.20:306][122]LogSlate: Window 'Save Content' being destroyed
+[2022.10.22-21.09.20:314][122]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Main_BuiltData618812F94FAAE9AEF6A095BE334F2E89.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main_BuiltData.uasset'
+[2022.10.22-21.09.20:316][122]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.09.22:407][122]LogSlate: Window 'Message' being destroyed
+[2022.10.22-21.09.22:412][122]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2022.10.22-21.09.22:413][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.09.22:413][122]LogWorld: BeginTearingDown for /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.09.22:436][122]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.22:437][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.22:447][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-21.09.22:450][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.22:464][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.09.22:464][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.09.22:465][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.09.22:476][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.09.22:479][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.22-21.09.22:503][122]LightingResults: New page: Lighting Build
+[2022.10.22-21.09.22:503][122]LoadErrors: New page: Loading map: Main.umap
+[2022.10.22-21.09.22:505][122]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.22:505][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.22:505][122]MapCheck: New page: Map Check
+[2022.10.22-21.09.22:505][122]LightingResults: New page: Lighting Build
+[2022.10.22-21.09.22:518][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.09.22:520][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.22-21.09.22:524][122]LogBlueprint: Error: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.10.22-21.09.22:526][122]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.10.22-21.09.22:527][122]LogAIModule: Creating AISystem for world Main
+[2022.10.22-21.09.22:547][122]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-21.09.22:565][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.10.22-21.09.22:575][122]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-21.09.22:575][122]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2022.10.22-21.09.22:575][122]LogFileHelpers: Loading map 'Main' took 2.259
+[2022.10.22-21.09.22:583][122]AssetCheck: New page: Asset Save: Main_BuiltData
+[2022.10.22-21.09.22:583][122]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tree_Simulator/Maps/Main_BuiltData.Main_BuiltData
+[2022.10.22-21.09.22:599][123]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.10.22-21.09.23:862][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.10.22-21.09.23:882][198]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.09.23:883][198]LightingResults: New page: Lighting Build
+[2022.10.22-21.09.23:883][198]LoadErrors: New page: Loading map: Main.umap
+[2022.10.22-21.09.23:884][198]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.23:884][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.23:884][198]MapCheck: New page: Map Check
+[2022.10.22-21.09.23:884][198]LightingResults: New page: Lighting Build
+[2022.10.22-21.09.23:897][198]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.09.23:899][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.22-21.09.23:903][198]LogBlueprint: Error: [AssetLog] C:\Users\Vampi\OneDrive - University of Cincinnati\Documents\School\3. Fall 2022\Game Engine Lab 2\Tree Simulator\TreeSim\Content\Tree_Simulator\Maps\Main.umap: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.10.22-21.09.23:905][198]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main'.
+[2022.10.22-21.09.23:906][198]LogAIModule: Creating AISystem for world Main
+[2022.10.22-21.09.23:925][198]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-21.09.23:942][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.22-21.09.23:946][198]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-21.09.23:946][198]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.132ms to complete.
+[2022.10.22-21.09.23:946][198]LogFileHelpers: Loading map 'Main' took 0.063
+[2022.10.22-21.09.26:164][329]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Tree_Simulator/Maps/Main.Main:PersistentLevel.Main
+[2022.10.22-21.09.28:341][440]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.10.22-21.09.28:361][440]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.22-21.09.32:683][695]BlueprintLog: New page: Compile Main
+[2022.10.22-21.09.32:714][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.22-21.09.33:310][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.10.22-21.09.33:315][728]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/MainC282879F4B477EF7D467E99C018298C1.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main.umap'
+[2022.10.22-21.09.33:319][728]LogFileHelpers: Saving map 'Main' took 0.026
+[2022.10.22-21.09.33:329][728]AssetCheck: New page: Asset Save: Main
+[2022.10.22-21.09.33:329][728]LogContentValidation: Display: Validating World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.09.35:043][828]LogSlate: Window 'Main' being destroyed
+[2022.10.22-21.09.35:047][828]LogSlate: Window 'Main' being destroyed
+[2022.10.22-21.09.35:049][828]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.35:050][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.37:001][941]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.22-21.09.37:007][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-21.09.37:007][941]PIE: New page: PIE session: Main (Oct 22, 2022, 1:09:37 PM)
+[2022.10.22-21.09.37:008][941]LogPlayLevel: Creating play world package: /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.09.37:008][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000905s)
+[2022.10.22-21.09.37:009][941]LogAIModule: Creating AISystem for world Main
+[2022.10.22-21.09.37:009][941]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2022.10.22-21.09.37:009][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tree_Simulator/Maps/Main.Main to /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main (0.001904s)
+[2022.10.22-21.09.37:026][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.10.22-21.09.37:026][941]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.10.22-21.09.37:026][941]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-21.09.37:026][941]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-21.09.37:026][941]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-21.09.37:026][941]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-21.09.37:026][941]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-21.09.37:026][941]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-21.09.37:026][941]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-21.09.37:026][941]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-21.09.37:027][941]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-21.09.37:027][941]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-21.09.37:027][941]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-21.09.37:027][941]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-21.09.37:029][941]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-21.09.37:029][941]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-21.09.37:055][941]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.22-21.09.37:056][941]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-21.09.37:056][941]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-21.09.37:056][941]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-21.09.37:056][941]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-21.09.37:056][941]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-21.09.37:056][941]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-21.09.37:058][941]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-21.09.37:058][941]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-21.09.37:058][941]LogInit: FAudioDevice initialized.
+[2022.10.22-21.09.37:058][941]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2022.10.22-21.09.37:072][941]LogLoad: Game class is 'GameModeBase'
+[2022.10.22-21.09.37:073][941]LogWorld: Bringing World /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.10.22-17.09.37
+[2022.10.22-21.09.37:073][941]LogWorld: Bringing up level for play took: 0.000272
+[2022.10.22-21.09.37:074][941]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.10.22-21.09.37:077][941]PIE: Server logged in
+[2022.10.22-21.09.37:077][941]PIE: Play in editor total start time 0.071 seconds.
+[2022.10.22-21.09.40:325][135]LogRenderer: Reallocating scene render targets to support 688x336 Format 10 NumSamples 1 (Frame:192).
+[2022.10.22-21.09.40:347][136]LogRenderer: Reallocating scene render targets to support 688x344 Format 10 NumSamples 1 (Frame:193).
+[2022.10.22-21.09.40:370][137]LogRenderer: Reallocating scene render targets to support 688x352 Format 10 NumSamples 1 (Frame:194).
+[2022.10.22-21.09.40:390][138]LogRenderer: Reallocating scene render targets to support 688x364 Format 10 NumSamples 1 (Frame:195).
+[2022.10.22-21.09.40:413][139]LogRenderer: Reallocating scene render targets to support 688x376 Format 10 NumSamples 1 (Frame:196).
+[2022.10.22-21.09.40:436][140]LogRenderer: Reallocating scene render targets to support 688x388 Format 10 NumSamples 1 (Frame:197).
+[2022.10.22-21.09.40:461][141]LogRenderer: Reallocating scene render targets to support 688x400 Format 10 NumSamples 1 (Frame:198).
+[2022.10.22-21.09.40:482][142]LogRenderer: Reallocating scene render targets to support 688x412 Format 10 NumSamples 1 (Frame:199).
+[2022.10.22-21.09.40:503][143]LogRenderer: Reallocating scene render targets to support 688x420 Format 10 NumSamples 1 (Frame:200).
+[2022.10.22-21.09.40:523][144]LogRenderer: Reallocating scene render targets to support 688x424 Format 10 NumSamples 1 (Frame:201).
+[2022.10.22-21.09.40:546][145]LogRenderer: Reallocating scene render targets to support 688x428 Format 10 NumSamples 1 (Frame:202).
+[2022.10.22-21.09.40:566][146]LogRenderer: Reallocating scene render targets to support 688x432 Format 10 NumSamples 1 (Frame:203).
+[2022.10.22-21.09.40:590][147]LogRenderer: Reallocating scene render targets to support 688x436 Format 10 NumSamples 1 (Frame:204).
+[2022.10.22-21.09.40:651][150]LogRenderer: Reallocating scene render targets to support 688x440 Format 10 NumSamples 1 (Frame:207).
+[2022.10.22-21.09.40:770][156]LogRenderer: Reallocating scene render targets to support 688x444 Format 10 NumSamples 1 (Frame:211).
+[2022.10.22-21.09.40:809][158]LogRenderer: Reallocating scene render targets to support 688x448 Format 10 NumSamples 1 (Frame:213).
+[2022.10.22-21.09.40:850][160]LogRenderer: Reallocating scene render targets to support 688x452 Format 10 NumSamples 1 (Frame:215).
+[2022.10.22-21.09.40:900][162]LogRenderer: Reallocating scene render targets to support 688x456 Format 10 NumSamples 1 (Frame:217).
+[2022.10.22-21.09.42:183][237]LogNet: Browse: /Game/Tree_Simulator/Maps/KelliPorter_Map
+[2022.10.22-21.09.42:183][237]LogLoad: LoadMap: /Game/Tree_Simulator/Maps/KelliPorter_Map
+[2022.10.22-21.09.42:183][237]LogWorld: BeginTearingDown for /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.09.42:183][237]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.42:183][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.42:197][237]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.09.42:199][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.10.22-21.09.42:231][237]LogAudio: Display: Audio Device (ID: 4) registered with world 'KelliPorter_Map'.
+[2022.10.22-21.09.42:232][237]LogAIModule: Creating AISystem for world KelliPorter_Map
+[2022.10.22-21.09.42:232][237]LogLoad: Game class is 'MyGameMode_C'
+[2022.10.22-21.09.42:234][237]LogWorld: Bringing World /Game/Tree_Simulator/Maps/UEDPIE_0_KelliPorter_Map.KelliPorter_Map up for play (max tick rate 60) at 2022.10.22-17.09.42
+[2022.10.22-21.09.42:234][237]LogWorld: Bringing up level for play took: 0.000795
+[2022.10.22-21.09.42:235][237]PIE: Warning: AttachTo: '/Game/Tree_Simulator/Maps/UEDPIE_0_KelliPorter_Map.KelliPorter_Map:PersistentLevel.Oak_Player_C_0.CollisionCylinder' is not static  (in blueprint "Oak_Player"), cannot attach '/Game/Tree_Simulator/Maps/UEDPIE_0_KelliPorter_Map.KelliPorter_Map:PersistentLevel.Oak_Player_C_0.Cylinder' which is static to it. Aborting.
+[2022.10.22-21.09.42:236][237]LogLoad: Took 0.052682 seconds to LoadMap(/Game/Tree_Simulator/Maps/KelliPorter_Map)
+[2022.10.22-21.09.46:300][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.09.46:300][477]LogWorld: BeginTearingDown for /Game/Tree_Simulator/Maps/UEDPIE_0_KelliPorter_Map
+[2022.10.22-21.09.46:300][477]LogWorld: UWorld::CleanupWorld for KelliPorter_Map, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.46:300][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.46:324][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-21.09.46:327][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.46:341][477]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.09.46:341][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.09.46:342][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.09.46:347][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.09.46:350][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.22-21.09.46:418][478]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.10.22-21.09.47:616][542]LogSlate: Window 'Message Log' being destroyed
+[2022.10.22-21.09.47:621][542]LogSlate: Window 'Message Log' being destroyed
+[2022.10.22-21.09.49:775][668]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.22-21.09.49:781][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.22-21.09.49:781][668]PIE: New page: PIE session: Main (Oct 22, 2022, 1:09:49 PM)
+[2022.10.22-21.09.49:781][668]LogPlayLevel: Creating play world package: /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.09.49:782][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000911s)
+[2022.10.22-21.09.49:783][668]LogAIModule: Creating AISystem for world Main
+[2022.10.22-21.09.49:783][668]LogPlayLevel: PIE: World Init took: (0.000931s)
+[2022.10.22-21.09.49:783][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Tree_Simulator/Maps/Main.Main to /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main (0.001939s)
+[2022.10.22-21.09.49:798][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.10.22-21.09.49:799][668]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.22-21.09.49:799][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.22-21.09.49:799][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.22-21.09.49:799][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.22-21.09.49:799][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.22-21.09.49:799][668]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.22-21.09.49:801][668]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.22-21.09.49:801][668]LogAudioMixer: Display: 1: FrontRight
+[2022.10.22-21.09.49:846][668]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.22-21.09.49:846][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.22-21.09.49:846][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.22-21.09.49:846][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.22-21.09.49:847][668]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.22-21.09.49:847][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.22-21.09.49:847][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.22-21.09.49:848][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.22-21.09.49:848][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.22-21.09.49:848][668]LogInit: FAudioDevice initialized.
+[2022.10.22-21.09.49:848][668]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main'.
+[2022.10.22-21.09.49:859][668]LogLoad: Game class is 'GameModeBase'
+[2022.10.22-21.09.49:860][668]LogWorld: Bringing World /Game/Tree_Simulator/Maps/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2022.10.22-17.09.49
+[2022.10.22-21.09.49:860][668]LogWorld: Bringing up level for play took: 0.000420
+[2022.10.22-21.09.49:861][668]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.10.22-21.09.49:863][668]PIE: Server logged in
+[2022.10.22-21.09.49:864][668]PIE: Play in editor total start time 0.084 seconds.
+[2022.10.22-21.09.51:103][742]LogScript: Warning: Accessed None trying to read property Main Menu
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.MainMenu_C_0
+	Function /Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0064
+[2022.10.22-21.09.51:103][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Main Menu". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Set Visibility
+[2022.10.22-21.09.51:103][742]LogScript: Warning: Accessed None trying to read property Options Menu
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.MainMenu_C_0
+	Function /Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:008C
+[2022.10.22-21.09.51:103][742]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options Menu". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Set Visibility
+[2022.10.22-21.09.52:953][853]LogScript: Warning: Accessed None trying to read property Main Menu
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.MainMenu_C_0
+	Function /Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:0064
+[2022.10.22-21.09.52:953][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Main Menu". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Set Visibility
+[2022.10.22-21.09.52:953][853]LogScript: Warning: Accessed None trying to read property Options Menu
+	MainMenu_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.MainMenu_C_0
+	Function /Game/Tree_Simulator/Blueprints/Menus/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu:008C
+[2022.10.22-21.09.52:953][853]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Options Menu". Blueprint:  MainMenu Function:  Execute Ubergraph Main Menu Graph:  EventGraph Node:  Set Visibility
+[2022.10.22-21.09.56:039][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.09.56:040][ 38]LogWorld: BeginTearingDown for /Game/Tree_Simulator/Maps/UEDPIE_0_Main
+[2022.10.22-21.09.56:040][ 38]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.09.56:040][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.56:051][ 38]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.22-21.09.56:055][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.09.56:069][ 38]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.09.56:069][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.09.56:070][ 38]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.22-21.09.56:075][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.22-21.09.56:078][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.10.22-21.09.56:161][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.10.22-21.09.58:955][197]LogSlate: Window 'Message Log' being destroyed
+[2022.10.22-21.09.58:961][197]LogSlate: Window 'Message Log' being destroyed
+[2022.10.22-21.10.01:504][349]LogRenderer: Reallocating scene render targets to support 708x456 Format 10 NumSamples 1 (Frame:920).
+[2022.10.22-21.10.01:549][350]LogRenderer: Reallocating scene render targets to support 736x456 Format 10 NumSamples 1 (Frame:922).
+[2022.10.22-21.10.01:587][351]LogRenderer: Reallocating scene render targets to support 784x456 Format 10 NumSamples 1 (Frame:924).
+[2022.10.22-21.10.01:629][352]LogRenderer: Reallocating scene render targets to support 788x456 Format 10 NumSamples 1 (Frame:926).
+[2022.10.22-21.10.01:665][353]LogRenderer: Reallocating scene render targets to support 792x456 Format 10 NumSamples 1 (Frame:928).
+[2022.10.22-21.10.01:697][354]LogRenderer: Reallocating scene render targets to support 800x456 Format 10 NumSamples 1 (Frame:930).
+[2022.10.22-21.10.01:731][355]LogRenderer: Reallocating scene render targets to support 804x456 Format 10 NumSamples 1 (Frame:932).
+[2022.10.22-21.10.01:774][356]LogRenderer: Reallocating scene render targets to support 812x456 Format 10 NumSamples 1 (Frame:934).
+[2022.10.22-21.10.01:808][357]LogRenderer: Reallocating scene render targets to support 816x456 Format 10 NumSamples 1 (Frame:936).
+[2022.10.22-21.10.02:642][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.22-21.10.02:647][404]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/MainB6DB79FE49AC67C16920459435641719.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main.umap'
+[2022.10.22-21.10.02:654][404]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Main_BuiltDataA9C30D34401448F8F4F9DFB24D2950A9.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main_BuiltData.uasset'
+[2022.10.22-21.10.02:667][404]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.22-21.10.02:667][404]LogContentValidation: Display: Validating World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.10.02:667][404]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tree_Simulator/Maps/Main_BuiltData.Main_BuiltData
+[2022.10.22-21.10.10:514][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.22-21.10.10:519][872]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Main042915F8492CF9F5CE8749A20CE6361C.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main.umap'
+[2022.10.22-21.10.10:526][872]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/Main_BuiltData5C525AC9450666A810C9619251958D25.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/Main_BuiltData.uasset'
+[2022.10.22-21.10.10:537][872]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.22-21.10.10:537][872]LogContentValidation: Display: Validating World /Game/Tree_Simulator/Maps/Main.Main
+[2022.10.22-21.10.10:537][872]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Tree_Simulator/Maps/Main_BuiltData.Main_BuiltData
+[2022.10.22-21.14.58:806][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.22-21.14.58:835][251]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Tree_Simulator/Maps/KelliPorter_Map.KelliPorter_Map
+[2022.10.22-21.14.58:835][251]LightingResults: New page: Lighting Build
+[2022.10.22-21.14.58:836][251]LoadErrors: New page: Loading map: KelliPorter_Map.umap
+[2022.10.22-21.14.58:837][251]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.14.58:837][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.22-21.14.58:837][251]MapCheck: New page: Map Check
+[2022.10.22-21.14.58:837][251]LightingResults: New page: Lighting Build
+[2022.10.22-21.14.58:850][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.22-21.14.58:852][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.10.22-21.14.58:853][251]LogAudio: Display: Audio Device (ID: 1) registered with world 'KelliPorter_Map'.
+[2022.10.22-21.14.58:918][251]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.22-21.14.58:918][251]LogAIModule: Creating AISystem for world KelliPorter_Map
+[2022.10.22-21.14.58:935][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.10.22-21.14.58:938][251]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.22-21.14.58:938][251]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.143ms to complete.
+[2022.10.22-21.14.58:938][251]LogFileHelpers: Loading map 'KelliPorter_Map' took 0.103
+[2022.10.22-21.15.04:759][597]PIE: Warning: AttachTo: '/Engine/Transient.World_7:PersistentLevel.Oak_Player_C_0.CollisionCylinder' is not static  (in blueprint "Oak_Player"), cannot attach '/Engine/Transient.World_7:PersistentLevel.Oak_Player_C_0.Cylinder' which is static to it. Aborting.
+[2022.10.22-21.15.05:277][627]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Tree_Simulator/Maps/KelliPorter_Map.KelliPorter_Map:PersistentLevel.KelliPorter_Map
+[2022.10.22-21.17.49:634][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.10.22-21.17.49:642][913]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/KelliPorter_Map6BBC5B1C4CBC7531071AC693BCCB1FAD.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/KelliPorter_Map.umap'
+[2022.10.22-21.17.49:648][913]LogFileHelpers: Saving map 'KelliPorter_Map' took 0.036
+[2022.10.22-21.17.49:658][913]AssetCheck: New page: Asset Save: KelliPorter_Map
+[2022.10.22-21.17.49:658][913]LogContentValidation: Display: Validating World /Game/Tree_Simulator/Maps/KelliPorter_Map.KelliPorter_Map
+[2022.10.22-21.17.50:800][982]BlueprintLog: New page: Compile KelliPorter_Map
+[2022.10.22-21.17.50:821][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.22-21.17.51:346][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.10.22-21.17.51:353][ 11]LogSavePackage: Moving '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Saved/KelliPorter_Map736C5E2044D9C5883BEF449B0255F839.tmp' to '../../../../../../Users/Vampi/OneDrive - University of Cincinnati/Documents/School/3. Fall 2022/Game Engine Lab 2/Tree Simulator/TreeSim/Content/Tree_Simulator/Maps/KelliPorter_Map.umap'
+[2022.10.22-21.17.51:358][ 11]LogFileHelpers: Saving map 'KelliPorter_Map' took 0.031
+[2022.10.22-21.17.51:367][ 11]AssetCheck: New page: Asset Save: KelliPorter_Map
+[2022.10.22-21.17.51:367][ 11]LogContentValidation: Display: Validating World /Game/Tree_Simulator/Maps/KelliPorter_Map.KelliPorter_Map
+[2022.10.22-21.18.03:145][237]LogSlate: Window 'KelliPorter_Map' being destroyed
+[2022.10.22-21.18.03:150][237]LogSlate: Window 'KelliPorter_Map' being destroyed
+[2022.10.22-21.18.03:183][237]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.10.22-21.18.03:183][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
